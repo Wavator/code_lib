@@ -1,4 +1,6 @@
 # code_lib
-some problems after make_team
-#### don't want to update all the problems....
-#### 11612908@mail.sustc.edu.cn
+
+# ACM_template
+## 11612908@mail.sustc.edu.cn
+### Author: [wavator](http://codeforces.com/profile/Wavator)
+#### Team: [Rainbow6174](http://codeforces.com/profile/Rainbow6174) and [Wycer](http://codeforces.com/profile/Wycer)
