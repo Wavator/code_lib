@@ -55,9 +55,9 @@ int solve(int n, int m)
 
     int ret = 0;
     int s = min(n,m);
-    inv[1] = 1;
-    for (int i = 2; i <= s; ++i) {
-        inv[i] = 1ll * (mod - mod / i) * inv[mod % i] % mod;
+    inv[1]=1;
+    for (int i=2;i<=s;++i) {
+        inv[i]=1ll*(mod-mod/i)*inv[mod%i]%mod;
     }
     for(int i = s; i > 0; i--)
     {
